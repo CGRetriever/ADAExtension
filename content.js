@@ -11,8 +11,6 @@ for (elt of paragraphs){
      elt.style['background-color'] = '#FF00FF';
      if (fontSize < 20) {
         elt.style['font-size'] = '20px';
-     
-     break this now!!!asdf
       }
 }
 
